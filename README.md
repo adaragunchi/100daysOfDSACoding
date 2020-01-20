@@ -10,5 +10,9 @@ In order to resize the Array:
 	  size of the array and copy all the items 
 2. remove : When the Array is
 	  qudrilatral size then halve the size of the array.
+	  
+Implentation of Queue Using Linked List:
+Enqueue :  Insert the element at the end of list.
+Dequeue :  Delete the element from the beginning
 
  
