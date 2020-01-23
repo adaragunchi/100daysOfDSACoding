@@ -15,4 +15,8 @@ Implentation of Queue Using Linked List:
 Enqueue :  Insert the element at the end of list.
 Dequeue :  Delete the element from the beginning
 
+Day 3: Selection sort
+    1.Take the first element as the Min then compare that with rest of the array.
+	2.If you found that if left element in the right array is less than element
+		 in the left array then exchchnage
  
