@@ -20,3 +20,5 @@ Day 3: Selection sort
 	2.If you found that if left element in the right array is less than element
 		 in the left array then exchchnage
  
+     Insertion Sort :
+	 Take the each element from the right array and place it in proper position at that left array
